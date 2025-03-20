@@ -15,6 +15,18 @@ WeatherApp is a simple and intuitive weather forecasting application for iOS dev
 - **Frameworks**: UIKit, CoreLocation
 - **APIs**: OpenWeatherMap
 
+## Screenshots
+
+![Location authorisation request](screenshots/screenshot1.png)
+![Main page without selected location](screenshots/screenshot2.png)
+![Portrait - Currently view](screenshots/screenshot3.png)
+![Portrait - Daily view](screenshots/screenshot4.png)
+![Portrait - Weekly view](screenshots/screenshot5.png)
+![Searching Bar](screenshots/screenshot6.png)
+![Landscape - Currently view](screenshots/screenshot7.png)
+![Landscape - Daily view](screenshots/screenshot8.png)
+![Landscape - Weekly view](screenshots/screenshot9.png)
+
 ## Installation
 
 1. **Clone the repository**:
