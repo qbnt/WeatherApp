@@ -12,7 +12,7 @@ WeatherApp is a simple and intuitive weather forecasting application for iOS dev
 ## Technologies Used
 
 - **Programming Language**: Swift
-- **Frameworks**: UIKit, CoreLocation
+- **Frameworks**: SwiftUI, CoreLocation
 - **APIs**: OpenWeatherMap
 
 ## Screenshots
