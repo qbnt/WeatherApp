@@ -44,11 +44,6 @@ WeatherApp is a simple and intuitive weather forecasting application for iOS dev
    open WeatherApp.xcodeproj
    ```
 
-4. **Install dependencies** (if applicable):
-   ```bash
-   [Specify dependency manager commands, e.g., `pod install` for CocoaPods]
-   ```
-
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
