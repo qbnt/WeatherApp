@@ -53,5 +53,3 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 - OpenWeatherMap API
 
 ---
-
-*Note: This README template is based on standard practices. Please ensure to replace placeholder text with specific information about your project.*
