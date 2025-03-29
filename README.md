@@ -17,7 +17,6 @@ WeatherApp is a simple and intuitive weather forecasting application for iOS dev
 
 ## Screenshots
 
-![Location authorisation request](screenshots/screenshot1.jpeg)
 ![Main page without selected location](screenshots/screenshot2.jpeg)
 ![Portrait - Currently view](screenshots/screenshot3.jpeg)
 ![Portrait - Daily view](screenshots/screenshot4.jpeg)
